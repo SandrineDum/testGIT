@@ -13,7 +13,7 @@ namespace testGIT
             // GIT GUD
             //Yo guys!
             System.Console.WriteLine("allo c'Est guillaume qui écrit ca");
-            //ho wtf
+            //commentaire du slave 2
         }
     }
 }
