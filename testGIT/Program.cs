@@ -13,7 +13,7 @@ namespace testGIT
             // GIT GUD
             //Yo guys!
             System.Console.WriteLine("Bonjour, Sandrine Dumoulin");
-            //ok la ligne du bas
+            //ho wtf
         }
     }
 }
