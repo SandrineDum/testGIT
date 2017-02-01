@@ -12,7 +12,7 @@ namespace testGIT
         {
             // GIT GUD
             //Yo guys!
-            System.Console.WriteLine("Bonjourfhdhdfhdfhdfhlin");
+            System.Console.WriteLine("Bonjour, Sandrine Dumoulin");
             //ho wtf
         }
     }
