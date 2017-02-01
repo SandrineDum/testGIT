@@ -10,7 +10,7 @@ namespace testGIT
     {
         static void Main(string[] args)
         {
-            //Ceci est un commentaire
+            //Yo guys!
             System.Console.WriteLine("Bonjour, Sandrine Dumoulin");
         }
     }
